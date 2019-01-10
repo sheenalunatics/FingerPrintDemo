@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FingerPrintDemo</string>
+    <string name="touch_id">Put your finger on the sensor.</string>
+</resources>
